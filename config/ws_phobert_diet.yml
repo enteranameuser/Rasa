@@ -3,7 +3,7 @@
 language: vi
 
 pipeline:
-   - name: VietnameseTokenizerWS
+   - name: VietnameseTokenizerWS # tách từ ghép
    - name: LanguageModelFeaturizer
      model_weights: "vinai/phobert-base"
      model_name: "phobert"
