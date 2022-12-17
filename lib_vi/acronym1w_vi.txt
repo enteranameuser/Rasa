@@ -1,0 +1,115 @@
+bhtn	bảo hiểm thất nghiệp
+BHTN	bảo hiểm thất nghiệp
+bhxh	bảo hiểm xã hội
+BHXH	bảo hiểm xã hội
+online	trực tuyến
+vb	văn bảnn
+VB	văn bản
+nvqs	nghĩa vụ quân sự
+nvca	nghĩa vụ công an
+lãnh	hưởng
+?	 
+!	 
+.	 
+,	 
+:	 
+nc	nước
+m	mình
+mik	mình
+ko	không
+k	không
+kh	không
+khong	không
+kg	không
+khg	không
+tl	trả lời
+rep	trả lời
+r	rồi
+hey	xin chào
+hello	xin chào
+thanks	cảm ơn
+thank	cảm ơn
+tks	cảm ơn
+tk	cảm ơn
+ok	tốt
+oki	tốt
+okie	tốt
+dc	được
+vs	với
+thjk	thích
+thik	thích
+qá	quá
+trể	trễ
+bgjo	bao giờ
+h	giờ
+qa	quá
+ib	nhắn tin
+good	tốt
+god	tốt
+bt	bình thường
+dc 	được
+sd	sử dụng
+ko	không
+h	giờ
+oke	tốt
+thk	cảm ơn
+thnk	cảm ơn
+ng	người
+vsoi	với
+chs	chả hiểu sao
+klq	không liên quan
+hum	hôm
+dwc	được
+wa	quá
+wen	quên
+lun	luôn
+bun	buồn
+k?	không
+u	bạn
+rui	rồi
+mí	mấy
+hok	không
+hk	không
+hkg	không
+hong	không
+thx	cảm ơn
+thks	cảm ơn
+tx	cảm ơn
+thaxu	cảm ơn
+ntn	như thế nào
+mog	mong
+nhung	nhưng
+mik	mình
+mensenge	tin nhắn
+nhuwng		nhưng
+cskh	chăm sóc khách hàng
+wet	website
+fix	sửa lỗi
+lag	chậm
+mn	mọi người
+fai	phải
+hqua	hôm qua
+app	ứng dụng
+mxh	mạng xã hội
+fbk	mạng xã hội
+qtv	quản trị viên
+nt	như thế
+e	em
+wer	website
+thui	thôi
+j	gì
+dk	đăng ký
+đk	đăng ký
+cũngn	cũng
+okê	tốt
+bth	bình thường
+ad	quản trị viên
+back	trở lại
+=	bằng
+ma2	mà
+chubg	chung
+test	kiểm tra
+hiu	hiểu
+bye	tạm biệt
+dc	được
+ngề	nghề

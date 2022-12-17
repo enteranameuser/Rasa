@@ -1,0 +1,28 @@
+hợp đồng làm việc	hợp đồng lao động
+xkld	xuất khẩu lao động
+xklđ	xuất khẩu lao động
+lao động ở nước ngoài theo hợp đồng	xuất khẩu lao động
+lao động nước ngoài theo hợp đồng	xuất khẩu lao động
+lao động nước ngoài có hợp đồng 	xuất khẩu lao động
+lao động ở nước ngoài có hợp đồng 	xuất khẩu lao động
+nhân viên công chức	nhân viên nhà nước
+hàng tháng	mỗi tháng
+1 năm	12 tháng
+2 năm	24 tháng
+3 năm	36 tháng
+4 năm	48 tháng
+luong hu	lương hưu
+tra cu	tra cứu
+văn bản pháp luật	văn bản
+luật về	luật liên quan đến
+nghị định về	nghị định liên quan đến
+quyết định về	quyết định liên quan đến
+thông tư về	thông tư liên quan đến
+công văn	văn bản
+họp đồng	hợp đồng
+luật bảo hiểm thất nghiệp	luật liên quan đến bảo hiểm thất nghiệp
+nghị định bảo hiểm thất nghiệp	nghị định liên quan đến bảo hiểm thất nghiệp
+quyết định bảo hiểm thất nghiệp	quyết định liên quan đến bảo hiểm thất nghiệp
+thông tư bảo hiểm thất nghiệp	thông tư liên quan đến bảo hiểm thất nghiệp
+thất nghiệm	thất nghiệp
+thất ngiệp	thất nghiệp
