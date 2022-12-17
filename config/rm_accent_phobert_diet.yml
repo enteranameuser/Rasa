@@ -1,9 +1,9 @@
-# Configuration for Rasa NLU.
+
 # https://rasa.com/docs/rasa/nlu/components/
 language: vi
 
 pipeline:
-   - name: VietnameseTokenizerRmAccent
+   - name: VietnameseTokenizerRmAccent # đầu vào bỏ dấu
    - name: LanguageModelFeaturizer
      model_weights: "vinai/phobert-base"
      model_name: "phobert"
