@@ -27,6 +27,9 @@
 - virtualenv 20.13.2
 ### Cài đặt vituralenv ( sử dụng môi trường ảo )
 - pip install virtualenv
+## Coppy vào thư mục project các thư mục:
+- lib_vi
+- sparse_naive_bayes_intent_classifier
 ### Cài đặt môi trường ảo sử dụng python 3.8
 - Tải phiên bản python 3.8 (Windows x86-64 executable installer) cài đặt chế độ custom ở một thư mục E:\folder\folder\folder
 - tải thư viện python môi trường ảo : https://drive.google.com/drive/folders/1VfnApqPQqT6qyjF9p1vKADvKdUHShmYo?usp=share_link
