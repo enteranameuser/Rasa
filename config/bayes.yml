@@ -1,0 +1,23 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: vi
+
+pipeline:
+   - name: VietnameseTokenizer
+   - name: CountVectorsFeaturizer
+   - name: CountVectorsFeaturizer
+     analyzer: char_wb
+     min_ngram: 1
+     max_ngram: 4
+   - name: sparse_naive_bayes_intent_classifier.SparseNaiveBayesIntentClassifier
+     alpha: 0.1
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+ - name: MemoizationPolicy
+ - name: TEDPolicy
+   max_history: 5
+   epochs: 50
+   constrain_similarities: true
+ - name: RulePolicy
+ - name: FormPolicy

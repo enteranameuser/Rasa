@@ -1,0 +1,26 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: vi
+
+pipeline:
+   - name: VietnameseTokenizerWS
+   - name: LanguageModelFeaturizer
+     model_weights: "vinai/phobert-base"
+     model_name: "phobert"
+#   - name: custom_extract_entity.Custom_Extract_Entity
+#   - name: Custom_Extract_Time
+   - name: DIETClassifier
+     epochs: 100
+     constrain_similarities: true
+     entity_recognition: False
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+ - name: MemoizationPolicy
+ - name: TEDPolicy
+   max_history: 5
+   epochs: 50
+   constrain_similarities: true
+ - name: RulePolicy
+ - name: FormPolicy
