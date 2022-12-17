@@ -130,6 +130,6 @@ pipeline:
      constrain_similarities: true
 ```
 ## Đánh giá các mô hình
-- rasa test nlu --nlu data/nlu.yml --cross-validation --config config/file_cấu_hình.yml
+- dùng lệnh: rasa test nlu --nlu data/nlu.yml --cross-validation --config config/file_cấu_hình.yml
 - phương pháp sử dụng phương thức kfold
 - k mặc định = 5 
