@@ -1,3 +1,4 @@
+## sử dụng mô hình bert
 language: vi
 pipeline:
    - name: WhitespaceTokenizer
