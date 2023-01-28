@@ -33,7 +33,7 @@
 ### Cài đặt môi trường ảo sử dụng python 3.8
 - Tải phiên bản python 3.8 (Windows x86-64 executable installer) cài đặt chế độ custom ở một thư mục E:\folder\folder\folder
 - tải thư viện python môi trường ảo : https://drive.google.com/drive/folders/1VfnApqPQqT6qyjF9p1vKADvKdUHShmYo?usp=share_link
-- tạo một môi trường ảo: `python -m virtualenv -p  E:\folder\folder\folder\python38\python.exe nhap`
+- tạo một môi trường ảo: `python -m virtualenv -p  E:\folder\folder\folder\python38\python.exe py38`
 - Kích hoạt môi trường ảo: thực hiện lệnh  `py38\Scripts\activate`
 - Dừng môi trường ảo : thực hiện lệnh `py38\Scripts\deactivate`
 ## Các lớp trích xuất đặc trưng trong rasa
